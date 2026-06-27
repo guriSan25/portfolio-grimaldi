@@ -16,8 +16,6 @@ Incluye secciones como:
 * Inicio
 * Sobre mí
 * Proyectos
-* Detalle de proyectos
-* Servicios
 * Contacto
 * Descarga de CV en español e inglés
 * Formulario de contacto funcional
